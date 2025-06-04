@@ -1,0 +1,502 @@
+[
+  {
+    "nombre": "The Matrix",
+    "genero": "Crimen",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Dark Knight",
+    "genero": "Thriller",
+    "plataforma": "Audible",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Brave New World",
+    "genero": "Comedia",
+    "plataforma": "Disney+",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Mandalorian",
+    "genero": "Comedia",
+    "plataforma": "Apple TV",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Parasite",
+    "genero": "Crimen",
+    "plataforma": "Amazon Prime",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Harry Potter and the Sorcerer's Stone",
+    "genero": "Fantasía",
+    "plataforma": "HBO Max",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Dark Knight",
+    "genero": "Acción",
+    "plataforma": "Audible",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2022-07-28T16:43:32.436075",
+    "valoracion": 3,
+    "resena": "Buena historia y ambientación."
+  },
+  {
+    "nombre": "The Little Prince",
+    "genero": "Thriller",
+    "plataforma": "Kindle",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "To Kill a Mockingbird",
+    "genero": "Acción",
+    "plataforma": "Hulu",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-05-16T16:43:32.436106",
+    "valoracion": 3,
+    "resena": "Una obra maestra de principio a fin."
+  },
+  {
+    "nombre": "Black Mirror",
+    "genero": "Fantasía",
+    "plataforma": "Amazon Prime",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Fight Club",
+    "genero": "Fantasía",
+    "plataforma": "Kindle",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Fight Club",
+    "genero": "Comedia",
+    "plataforma": "Netflix",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Avengers: Endgame",
+    "genero": "Acción",
+    "plataforma": "Netflix",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Godfather",
+    "genero": "Acción",
+    "plataforma": "Netflix",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Godfather",
+    "genero": "Acción",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Parasite",
+    "genero": "Drama",
+    "plataforma": "Apple TV",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2023-05-21T16:43:32.436147",
+    "valoracion": 1,
+    "resena": "Una obra maestra de principio a fin."
+  },
+  {
+    "nombre": "Stranger Things",
+    "genero": "Drama",
+    "plataforma": "Hulu",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-11-15T16:43:32.436163",
+    "valoracion": 5,
+    "resena": "Interesante pero algo lenta."
+  },
+  {
+    "nombre": "Interstellar",
+    "genero": "Romance",
+    "plataforma": "HBO Max",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Great Gatsby",
+    "genero": "Romance",
+    "plataforma": "HBO Max",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Catcher in the Rye",
+    "genero": "Comedia",
+    "plataforma": "HBO Max",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "1984",
+    "genero": "Thriller",
+    "plataforma": "Amazon Prime",
+    "estado": "Terminado",
+    "formato": "Libro",
+    "fecha_terminacion": "2022-11-01T16:43:32.436195",
+    "valoracion": 2,
+    "resena": "Interesante pero algo lenta."
+  },
+  {
+    "nombre": "Fight Club",
+    "genero": "Crimen",
+    "plataforma": "Hulu",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2023-11-10T16:43:32.436208",
+    "valoracion": 3,
+    "resena": "Buena historia y ambientación."
+  },
+  {
+    "nombre": "The Mandalorian",
+    "genero": "Romance",
+    "plataforma": "HBO Max",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-06-04T16:43:32.436217",
+    "valoracion": 3,
+    "resena": "Interesante pero algo lenta."
+  },
+  {
+    "nombre": "The Alchemist",
+    "genero": "Comedia",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Lord of the Rings",
+    "genero": "Comedia",
+    "plataforma": "Audible",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-10-22T16:43:32.436228",
+    "valoracion": 5,
+    "resena": "No fue lo que esperaba."
+  },
+  {
+    "nombre": "The Alchemist",
+    "genero": "Thriller",
+    "plataforma": "Hulu",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Avengers: Endgame",
+    "genero": "Romance",
+    "plataforma": "Hulu",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Better Call Saul",
+    "genero": "Drama",
+    "plataforma": "Hulu",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Inception",
+    "genero": "Crimen",
+    "plataforma": "Kindle",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2024-02-15T16:43:32.436244",
+    "valoracion": 4,
+    "resena": "Visualmente impresionante."
+  },
+  {
+    "nombre": "To Kill a Mockingbird",
+    "genero": "Crimen",
+    "plataforma": "Kindle",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Black Mirror",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Disney+",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-12-17T16:43:32.436270",
+    "valoracion": 4,
+    "resena": "La narrativa fue un poco confusa, pero buena."
+  },
+  {
+    "nombre": "To Kill a Mockingbird",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Apple TV",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Breaking Bad",
+    "genero": "Drama",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Shawshank Redemption",
+    "genero": "Crimen",
+    "plataforma": "Amazon Prime",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2023-11-28T16:43:32.436293",
+    "valoracion": 4,
+    "resena": "Muy entretenido, lo recomiendo."
+  },
+  {
+    "nombre": "The Alchemist",
+    "genero": "Crimen",
+    "plataforma": "Audible",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-02-28T16:43:32.436307",
+    "valoracion": 3,
+    "resena": "Visualmente impresionante."
+  },
+  {
+    "nombre": "Brave New World",
+    "genero": "Thriller",
+    "plataforma": "Audible",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Inception",
+    "genero": "Comedia",
+    "plataforma": "Amazon Prime",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2024-01-18T16:43:32.436324",
+    "valoracion": 1,
+    "resena": "Muy entretenido, lo recomiendo."
+  },
+  {
+    "nombre": "Inception",
+    "genero": "Acción",
+    "plataforma": "HBO Max",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2024-04-22T16:43:32.436336",
+    "valoracion": 5,
+    "resena": "Visualmente impresionante."
+  },
+  {
+    "nombre": "The Great Gatsby",
+    "genero": "Romance",
+    "plataforma": "Hulu",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Better Call Saul",
+    "genero": "Comedia",
+    "plataforma": "Audible",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Harry Potter and the Sorcerer's Stone",
+    "genero": "Romance",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Interstellar",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Kindle",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Brave New World",
+    "genero": "Comedia",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Peaky Blinders",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Audible",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Pulp Fiction",
+    "genero": "Crimen",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Stranger Things",
+    "genero": "Drama",
+    "plataforma": "HBO Max",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Forrest Gump",
+    "genero": "Crimen",
+    "plataforma": "Amazon Prime",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Godfather",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Amazon Prime",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "The Crown",
+    "genero": "Comedia",
+    "plataforma": "Apple TV",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Dune",
+    "genero": "Acción",
+    "plataforma": "Kindle",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  }
+]
